@@ -1,0 +1,83 @@
+{
+  "name": "Prince Julius P – Portfolio",
+  "short_name": "Prince Julius",
+  "description": "Personal portfolio of Prince Julius P: B.E. Computer Science Engineering student, Frontend Developer & Generative AI Explorer.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#06060f",
+  "theme_color": "#06060f",
+  "lang": "en",
+  "categories": [
+    "portfolio",
+    "education",
+    "productivity",
+    "technology"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "200x200",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "View Projects",
+      "short_name": "Work",
+      "description": "Jump to featured projects",
+      "url": "./index.html#work",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Skills & Toolkit",
+      "short_name": "Skills",
+      "description": "View skills and certifications",
+      "url": "./index.html#skills",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Contact Prince",
+      "short_name": "Contact",
+      "description": "Get in touch with Prince Julius",
+      "url": "./index.html#contact",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
+
